@@ -1,0 +1,6 @@
+Git lines:
+
+git --version
+git clone "url"
+git status
+git add file.exenthion
