@@ -4,3 +4,5 @@ git --version
 git clone "url"
 git status
 git add file.exenthion
+git commit -m "means add a message" "third commit"
+git log --all --decorate --oneline --graph
