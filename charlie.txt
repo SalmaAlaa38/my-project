@@ -6,3 +6,8 @@ git status
 git add file.exenthion
 git commit -m "means add a message" "third commit"
 git log --all --decorate --oneline --graph
+
+control l clears the screen
+touch echo.txt "add the file localy"
+
+get add . "means add any file on my local file
